@@ -11,13 +11,20 @@ The dataset online_shoppers_intention.csv contains various features such as admi
 ## Features
 
 Data Preprocessing: Cleaning and processing the dataset for analysis. This includes handling missing values and encoding categorical variables.
+
 Exploratory Data Analysis (EDA): Utilizing Seaborn and Matplotlib for visualization to understand the distribution of the target variable and correlations between features.
+
 Feature Engineering: Selecting relevant features and transforming them for better model performance.
+
 Data Scaling and Transformation: Standardizing features using StandardScaler and applying PowerTransformer for normalization.
+
 Machine Learning Modeling: Building and evaluating multiple models like Logistic Regression, Random Forest, CatBoost, and XGBoost classifiers.
+
 Model Evaluation: Using metrics such as accuracy, confusion matrix, and classification reports to assess model performance.
+
 Hyperparameter Tuning: Applying techniques like GridSearchCV for optimizing model parameters.
-Requirements
+
+## Requirements
 
 This project requires Python and the following libraries:
 
