@@ -1,0 +1,1 @@
+# StrategicRevenueForecasting_DigitalShoppingPatterns
